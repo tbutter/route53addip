@@ -1,0 +1,14 @@
+{
+  "name": "route53addip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Butter",
+  "license": "LGPL-2.1-or-later",
+  "dependencies": {
+    "@aws-sdk/client-route-53": "^3.18.0"
+  }
+}
